@@ -11,7 +11,6 @@
   inputs.src-denim_ui_canvas-master.ref   = "refs/heads/master";
   inputs.src-denim_ui_canvas-master.owner = "nortero-code";
   inputs.src-denim_ui_canvas-master.repo  = "denim-ui-canvas";
-  inputs.src-denim_ui_canvas-master.dir   = "";
   inputs.src-denim_ui_canvas-master.type  = "github";
   
   inputs."denim_ui".owner = "nim-nix-pkgs";
