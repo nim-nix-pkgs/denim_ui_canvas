@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/nortero-code/denim-ui-canvas",
   "refs": [
-    "fatal: unable to access 'https://github.com/nortero-code/denim-ui-canvas/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/nortero-code/denim-ui-canvas/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
