@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658033221,
-        "narHash": "sha256-ROG4BRPujdJ9bTWmxavi6tMBJ/Fxi1LZn0CcLiVQtR8=",
+        "lastModified": 1658203370,
+        "narHash": "sha256-Sh0ujzmoMHFwyV5S2+jgqqepibZLl6WV1oj8Ef5M5LU=",
         "owner": "nim-nix-pkgs",
         "repo": "denim_ui_canvas",
-        "rev": "437933a946f3c2340f7157f225fb82fa257a4ac7",
+        "rev": "3d00d640c8e8bf633d02240a1e1e6761a7dfd716",
         "type": "github"
       },
       "original": {
